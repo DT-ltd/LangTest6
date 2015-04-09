@@ -828,7 +828,7 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
-  ShowMessage('Привет');
+  ShowMessage('Привет Всем');
   end;
 
 function createsm;
