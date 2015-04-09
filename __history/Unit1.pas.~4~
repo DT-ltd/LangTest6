@@ -29,7 +29,6 @@ type
     Button4: TButton;
     Label1: TLabel;
     Button5: TButton;
-    Button6: TButton;
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure ComboBox1Change(Sender: TObject);
