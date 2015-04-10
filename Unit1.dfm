@@ -268,8 +268,8 @@ object Form1: TForm1
     OnClick = Button5Click
   end
   object Button6: TButton
-    Left = 321
-    Top = 272
+    Left = 448
+    Top = 224
     Width = 75
     Height = 25
     Caption = 'Button6'
