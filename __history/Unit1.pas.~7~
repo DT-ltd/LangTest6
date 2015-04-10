@@ -824,7 +824,6 @@ var i,j,k,ii:integer;
     end;
 
   Form2.Show;
-
   end;
 
 procedure TForm1.Button5Click(Sender: TObject);
