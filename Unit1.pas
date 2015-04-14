@@ -830,12 +830,12 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
-  ShowMessage('Пр  ив е т');
+  ShowMessage('Привет');
   end;
 
 procedure TForm1.Button7Click(Sender: TObject);
 begin
-showmessage('Новая фигня');
+showmessage('Новая фигн я');
 //и коммент к этой фигне
 end;
 
