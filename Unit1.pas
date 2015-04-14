@@ -836,7 +836,7 @@ procedure TForm1.Button5Click(Sender: TObject);
 procedure TForm1.Button7Click(Sender: TObject);
 begin
 showmessage('Новая хрень');
-//и коммент к этой хрене
+//и коммент к этой фигне
 end;
 
 function createsm;
