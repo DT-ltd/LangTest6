@@ -30,6 +30,7 @@ type
     Label1: TLabel;
     Button5: TButton;
     Button6: TButton;
+    Button7: TButton;
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure ComboBox1Change(Sender: TObject);
@@ -41,6 +42,7 @@ type
     procedure Edit2Change(Sender: TObject);
     procedure Button4Click(Sender: TObject);
     procedure Button5Click(Sender: TObject);
+    procedure Button7Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -830,6 +832,12 @@ procedure TForm1.Button5Click(Sender: TObject);
   begin
   ShowMessage('Привет');
   end;
+
+procedure TForm1.Button7Click(Sender: TObject);
+begin
+showmessage('Новая хрень');
+//и коммент к этой хрене
+end;
 
 function createsm;
 var i:integer;
