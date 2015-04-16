@@ -830,7 +830,11 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
+<<<<<<< HEAD
   ShowMessage('Новая 1242');
+=======
+  ShowMessage('Новая 1310');
+>>>>>>> New_in_test
   end;
 
 procedure TForm1.Button7Click(Sender: TObject);
