@@ -30,7 +30,6 @@ type
     Label1: TLabel;
     Button5: TButton;
     Button6: TButton;
-    Button7: TButton;
     procedure FormCreate(Sender: TObject);
     procedure Button1Click(Sender: TObject);
     procedure ComboBox1Change(Sender: TObject);
@@ -42,7 +41,6 @@ type
     procedure Edit2Change(Sender: TObject);
     procedure Button4Click(Sender: TObject);
     procedure Button5Click(Sender: TObject);
-    procedure Button7Click(Sender: TObject);
   private
     { Private declarations }
   public
@@ -830,13 +828,7 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
-  ShowMessage('Новая 1145');
-  end;
-
-procedure TForm1.Button7Click(Sender: TObject);
-  begin
-  showmessage('Новая фигня');
-  //и коммент к этой фигне
+  ShowMessage('Привет');
   end;
 
 function createsm;
