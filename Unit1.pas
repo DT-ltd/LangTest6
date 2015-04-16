@@ -830,14 +830,14 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
-  ShowMessage('Приве  т');
+  ShowMessage('Новая 1145');
   end;
 
 procedure TForm1.Button7Click(Sender: TObject);
-begin
-showmessage('Новая хрень');
-//и коммент к этой хрене
-end;
+  begin
+  showmessage('Новая фигня');
+  //и коммент к этой фигне
+  end;
 
 function createsm;
 var i:integer;
