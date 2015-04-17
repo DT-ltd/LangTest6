@@ -830,7 +830,19 @@ var i,j,k,ii:integer;
 
 procedure TForm1.Button5Click(Sender: TObject);
   begin
+<<<<<<< HEAD
   ShowMessage('Новая 1024');
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+  ShowMessage('Новая 1242');
+=======
+  ShowMessage('Новая 1310');
+>>>>>>> New_in_test
+=======
+  ShowMessage('Новая 1310');
+>>>>>>> a2040fc1b6206d73bffb3d97cd322c9514c65e7b
+>>>>>>> origin/Test_branch_1
   end;
 
 procedure TForm1.Button7Click(Sender: TObject);
